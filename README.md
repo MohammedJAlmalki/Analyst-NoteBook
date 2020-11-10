@@ -14,7 +14,7 @@ pip install -r requirements.txt
 
 ## How to Use
 
-Interactive options make it easy to move between tool components, all you need is entering the option corresponding number to navigate between options
+Interactive options make it easy to move between tool components, all you need is entering the option's corresponding number to navigate between options
 ```python
 
                          ,.          .         .     .  .     .       ,-.          ,
