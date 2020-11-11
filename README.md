@@ -6,7 +6,7 @@ AnalystNB supports cybersecurity analysts' mission in investigating Adversaries'
 
 No Installation Required! Just Download and Setup the following:
 - Enter Shodan Community API Token into config.ini
-- Install the required python packages
+- Install the required python3 packages
 
 ```python1
 pip install -r requirements.txt
