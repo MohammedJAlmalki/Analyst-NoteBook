@@ -41,4 +41,4 @@ Please email me on mohammedjalmalki@outlook.sa if you are interested to contribu
 
 
 ## License
-[MIT](https://choosealicense.com/licenses/mit/)
+GNU GPLv3
