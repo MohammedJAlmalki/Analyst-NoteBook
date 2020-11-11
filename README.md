@@ -1,6 +1,6 @@
 # Analyst NoteBook
 
-AnalystNB supports cybersecurity analysts' mission in looking up Adversaries' Infrastructures information from online repositories with focus in simplicity and ease of use.
+AnalystNB supports cybersecurity analysts' mission in investigating Adversaries' Infrastructures by providing automated information lookup and storage in addition to analysis mechansims with focus in simplicity and ease of use.
 
 ## Installation
 
@@ -35,7 +35,9 @@ Interactive options make it easy to move between tool components, all you need i
 ```
 
 ## Contributing
-You might fork the project to make the tool on your flavor. Please email me on mohammedjalmalki@outlook.sa if you are interested to add more advancements to the tool.
+Please email me on mohammedjalmalki@outlook.sa if you are interested to contribute. 
+
+
 
 
 ## License
