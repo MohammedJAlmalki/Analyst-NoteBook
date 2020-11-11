@@ -41,7 +41,7 @@ Interactive options make it easy to move between tool components, all you need i
 ```
 
 ## Contributing
-Please email me on mohammedjalmalki@outlook.sa if you are interested to contribute. 
+If you are interested to contribute, please email me on mohammedjalmalki@outlook.sa. 
 
 
 
