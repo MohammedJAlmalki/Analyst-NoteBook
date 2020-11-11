@@ -7,7 +7,6 @@ from shodan import Shodan
 import configparser,os
 from time import sleep
 import time
-from tabulate import tabulate
 
 
 dbconnection = sqlite3.connect("AnalystNB.db")
