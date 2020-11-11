@@ -14,7 +14,7 @@ pip install -r requirements.txt
 - Run the command line utility on the project folder, then run the following command to start the tool:
 
 ```python
-python AnalystNBv1.0.py
+python AnalystNBv1-0.py
 ```
 
 
