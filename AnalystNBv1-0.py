@@ -35,8 +35,7 @@ banner= """
                         '  ' ' ' `-` ' `-| `-' `-'   '  ' `-' `-' `-' `-'  `-' `-' ' ` 
                                        `-'                                             
                                                                                                                                          
-                                              Version 1.0
-                                    Made with Love in Saudi Arabia                                                                                                                             
+                                              Version 1.0                                                                                                                             
                                        By MohammedAlmalki@2020
                                    
    """
