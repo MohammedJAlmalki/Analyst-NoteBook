@@ -8,9 +8,15 @@ No Installation Required! Just Download and Setup the following:
 - Enter Shodan Community API Token into config.ini
 - Install the required python3 packages
 
-```python1
+```python
 pip install -r requirements.txt
 ```
+- Run the command line utility on the project folder, then run the following command to start the tool:
+
+```python
+python AnalystNBv1.0.py
+```
+
 
 ## How to Use
 
