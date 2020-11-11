@@ -1,4 +1,4 @@
 ipinfo==3.0.0
 requests==2.19.1
 shodan==1.23.1
-tabulate
+
