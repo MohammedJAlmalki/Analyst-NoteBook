@@ -54,8 +54,6 @@ def help():
                        Version 1.0 
                        
     # AnalystNB supports the analysis mission of Adversaries Infrastructures with focus in simplicity and ease of use
-    # Prequisites:
-    - Python 3.0 
     # AnalystNB provides:
     - Database to enable queries and records storage
     - Automate IP information collection from multiple sources
