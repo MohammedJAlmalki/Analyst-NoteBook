@@ -1,6 +1,6 @@
 # Analyst NoteBook
 
-AnalystNB supports cybersecurity analysts' daily mission in investigating adversaries' Infrastructures by providing automated information lookup and storage in addition to analysis mechansims with focus in simplicity and ease of use.
+AnalystNB supports cybersecurity analysts' daily mission in investigating attacking infrastructures by providing automated IP information lookup and storage in addition to analysis mechansims with focus in simplicity and ease of use.
 
 ## Installation
 
