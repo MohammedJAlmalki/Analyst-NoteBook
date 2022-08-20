@@ -1,10 +1,10 @@
 # Analyst NoteBook
 
-AnalystNB supports cybersecurity analysts' daily mission in investigating attacking infrastructures by automating IP information lookup and storage in addition to providing analysis mechansims with focus in simplicity and ease of use.
+AnalystNB supports cybersecurity analysts' daily mission in investigating attacking infrastructures by automating IP information lookup and storage in addition to providing analysis mechansims with prioritizing simplicity and ease of use.
 
 ## Installation
 
-No Installation Required! Just Download and Setup the following:
+Download and Setup the following:
 - Enter Shodan Community API Token into config.ini
 - Run the tool only after updating the config.ini to activate the API token.
 - Install the required python3 packages
